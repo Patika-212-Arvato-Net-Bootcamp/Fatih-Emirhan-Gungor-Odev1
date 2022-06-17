@@ -14,3 +14,19 @@ D:\repos\Order CLI\obj\Debug\net5.0\refint\Order CLI.dll
 D:\repos\Order CLI\obj\Debug\net5.0\Order CLI.pdb
 D:\repos\Order CLI\obj\Debug\net5.0\Order CLI.genruntimeconfig.cache
 D:\repos\Order CLI\obj\Debug\net5.0\ref\Order CLI.dll
+D:\repos\Fatih-Emirhan-Gungor-OrderCLI\bin\Debug\net5.0\Order CLI.exe
+D:\repos\Fatih-Emirhan-Gungor-OrderCLI\bin\Debug\net5.0\Order CLI.deps.json
+D:\repos\Fatih-Emirhan-Gungor-OrderCLI\bin\Debug\net5.0\Order CLI.runtimeconfig.json
+D:\repos\Fatih-Emirhan-Gungor-OrderCLI\bin\Debug\net5.0\Order CLI.runtimeconfig.dev.json
+D:\repos\Fatih-Emirhan-Gungor-OrderCLI\bin\Debug\net5.0\Order CLI.dll
+D:\repos\Fatih-Emirhan-Gungor-OrderCLI\bin\Debug\net5.0\Order CLI.pdb
+D:\repos\Fatih-Emirhan-Gungor-OrderCLI\obj\Debug\net5.0\Order CLI.csproj.AssemblyReference.cache
+D:\repos\Fatih-Emirhan-Gungor-OrderCLI\obj\Debug\net5.0\Order CLI.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Fatih-Emirhan-Gungor-OrderCLI\obj\Debug\net5.0\Order CLI.AssemblyInfoInputs.cache
+D:\repos\Fatih-Emirhan-Gungor-OrderCLI\obj\Debug\net5.0\Order CLI.AssemblyInfo.cs
+D:\repos\Fatih-Emirhan-Gungor-OrderCLI\obj\Debug\net5.0\Order CLI.csproj.CoreCompileInputs.cache
+D:\repos\Fatih-Emirhan-Gungor-OrderCLI\obj\Debug\net5.0\Order CLI.dll
+D:\repos\Fatih-Emirhan-Gungor-OrderCLI\obj\Debug\net5.0\refint\Order CLI.dll
+D:\repos\Fatih-Emirhan-Gungor-OrderCLI\obj\Debug\net5.0\Order CLI.pdb
+D:\repos\Fatih-Emirhan-Gungor-OrderCLI\obj\Debug\net5.0\Order CLI.genruntimeconfig.cache
+D:\repos\Fatih-Emirhan-Gungor-OrderCLI\obj\Debug\net5.0\ref\Order CLI.dll

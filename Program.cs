@@ -298,10 +298,8 @@ namespace Order_CLI
             {
                 Console.WriteLine("Your inventory has the following items : \n");
                 Console.WriteLine("--------------------------------------------------------------------\n");
-                for (int i = 0; i < inventory.Count; i++)
-                {
-                    Console.WriteLine((i + 1) + " - " + inventory[i].Name + "\n");
-                }
+                Console.WriteLine("    Product\t\tQuantity\n");
+                for (int i = 0; i < inventory.Count; i++) { Console.WriteLine((i + 1) + " - " + inventory[i].Name + "\t\t" + inventory[i].Quantity + "\n"); }
                 Console.WriteLine("--------------------------------------------------------------------\n");
             }
         }
@@ -313,11 +311,12 @@ namespace Order_CLI
 
             //Give feedback to user that purchase is successfull
             Console.WriteLine("--------------------------------------------------------------------\n");
-            Console.WriteLine("Purchase is successfull,following products added to your inventory : \n");
+            Console.WriteLine("Purchase is successfull, following products added to your inventory : \n");
             Console.WriteLine("--------------------------------------------------------------------\n");
+            Console.WriteLine("    Product\t\tQuantity\n");
             for (int i = 0; i < inventory.Count; i++)
             {
-                Console.WriteLine((i + 1) + " - " + inventory[i].Name + "\n");
+                Console.WriteLine((i + 1) + " - " + inventory[i].Name + "\t\t" + inventory[i].Quantity + "\n");
             }
             Console.WriteLine("--------------------------------------------------------------------\n");
 
